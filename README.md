@@ -73,6 +73,8 @@ cd C:\Users\Administrator\.gemini\antigravity\scratch\ecomind-app
 
 # Install dependencies
 npm install
+# Open the file
+cd .\Digital-carbon-footprint-main
 
 # Start development server
 npm run dev
